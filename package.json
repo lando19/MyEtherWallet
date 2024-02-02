@@ -38,7 +38,7 @@
     "@coolwallets/transport-web-ble": "0.1.0",
     "@coolwallets/wallet": "0.2.0-beta.1",
     "@ensdomains/address-encoder": "0.2.10",
-    "@ensdomains/ens-contracts": "0.0.7",
+    "@ensdomains/ens-contracts": "0.0.20",
     "@ethereumjs/common": "2.6.0",
     "@ethereumjs/tx": "3.4.0",
     "@ensdomains/ensjs": "2.0.1",
@@ -52,8 +52,8 @@
     "@shapeshiftoss/hdwallet-core": "1.18.2",
     "@shapeshiftoss/hdwallet-keepkey-webusb": "1.18.2",
     "@unstoppabledomains/resolution": "6.0.3",
-    "@walletconnect/client": "1.6.6",
-    "@walletconnect/qrcode-modal": "1.6.6",
+    "@walletconnect/client": "1.8.0",
+    "@walletconnect/qrcode-modal": "1.8.0",
     "animejs": "3.2.1",
     "apollo-cache-inmemory": "1.6.6",
     "apollo-client": "2.6.10",
@@ -81,7 +81,7 @@
     "vue-apollo": "3.1.0",
     "vue-router": "3.5.3",
     "vuex": "3.6.2",
-    "walletlink": "2.2.8"
+    "walletlink": "2.5.0"
   },
   "devDependencies": {
     "@commitlint/config-conventional": "15.0.0",
